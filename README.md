@@ -1,6 +1,5 @@
 # Mikasa Framework
-[![Packagist](https://img.shields.io/packagist/dt/kokororin/kotori-php.svg?maxAge=2592000)](https://packagist.org/packages/kokororin/kotori-php)
-[![License](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://github.com/kokororin/Kotori.php/blob/master/LICENSE)
+[![Packagist](https://img.shields.io/packagist/dt/kokororin/kotori-php.svg?maxAge=2592000)](https://packagist.org/packages/philiplambok/mikasa)
 
 Mikasa Framework is A Simple MVC(Model View Controller) PHP Framework. Mikasa Framework is suitable with you who familiar with CodeIgniter or just new in this pattern. 
 
