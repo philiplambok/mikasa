@@ -17,6 +17,8 @@ $ composer create-project philiplambok/mikasa myapp --prefer-dist -vvv
 $ cd myapp
 ```
 
+or just download from [stable releases](https://github.com/philiplambok/mikasa/releases) 
+
 ## Usage
 In MVC Pattern, you will familliar with Model (Class that interact with database), View (File that handle the UI) and Controller (Class that manage the logic and routing).
 
