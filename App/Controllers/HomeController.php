@@ -14,6 +14,7 @@ class HomeController extends Controller
 
 	public function index()
 	{
+		$user = $this->model('User');
 		return $this->view('welcome');
 	}
 }
