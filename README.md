@@ -1,2 +1,2 @@
-# mikasa
-A Simple Model-View-Controller(MVC) PHP Framework
+# Mikasa 
+Simple MVC(Model View Controller) PHP Framework
