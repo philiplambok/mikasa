@@ -22,7 +22,7 @@ In MVC Pattern, you will familliar with Model (Class that interact with database
 
 You can run the project using build in php server, with type this command :
 ```
-$ myapp> php -S localhost:8000
+$ php -S localhost:8000
 ```
 That command will be running your code in localhost port 8000. You can open your browser and type to url box : http://localhost:8000
 
