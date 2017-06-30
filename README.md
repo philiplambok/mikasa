@@ -47,7 +47,7 @@ All controller must be extends with class controller, and for using class contro
 
 ### Model
 If your program need some logic or interact to database, you can just create the model.
-```
+```php
 <?php 
 
 namespace App\Models;
