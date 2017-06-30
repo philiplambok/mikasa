@@ -1,4 +1,6 @@
 {
+	"name": "philiplambok/mikasa",
+  "description": "A Simple Model-View-Controller(MVC) PHP Framework",
 	"autoload":{
 		"psr-4": {"App\\": "App/"}
 	}
