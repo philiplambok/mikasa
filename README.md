@@ -13,7 +13,7 @@ $ cd mikasa
 ```
 or you can install with composer **[Recomended]**
 ```
-$ composer create-project philiplambok/mikasa myapp --prefer-dist
+$ composer create-project philiplambok/mikasa myapp --prefer-dist -vvv
 $ cd myapp
 ```
 
