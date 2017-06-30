@@ -72,8 +72,8 @@ All model will be extends with Database class. To connection with database, you 
 ### Views
 All views located in dir : `App/Views`. You can create some html file and show them with controller. If you need some data in database you just create the model.
 
-### Learn
-Comming Soon!
+### Learning Resource
+- Documentation (*Comming Soon!*)
 
 
 
